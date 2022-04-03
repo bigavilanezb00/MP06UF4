@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="MP06UF4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MP06UF4_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MP06UF4.jar">
+        <element id="module-output" name="MP06UF4" />
+      </element>
+      <element id="file-copy" path="$USER_HOME$/Desktop/DB40/dist/lib/xstream-1.2.1.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/DB40/dist/lib/looks-2.0.4.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/DB40/dist/lib/sql4o.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/DB40/dist/lib/forms-1.0.7.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/DB40/dist/lib/xpp3_min-1.1.3.4.O.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/DB40/dist/lib/db4o-core.jar" />
+    </root>
+  </artifact>
+</component>
